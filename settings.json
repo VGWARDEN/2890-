@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "1HEART0SMP0S1.aternos.me",
-    "port": 26989,
+    "ip": "1HEART_SMP_S1.aternos.me",
+    "port": 54734,
     "version": "1.12.1"
   },
   
